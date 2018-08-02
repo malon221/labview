@@ -1,0 +1,120 @@
+2018-03-23 14:40:48; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:48; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:48; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:49; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:50; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:51; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:51; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:51; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:51; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:51; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:51; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:51; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:51; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:51; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:52; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:52; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:52; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:52; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:52; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:52; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:53; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:53; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:53; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:54; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:54; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:54; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
+2018-03-23 14:40:54; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:54; iGetProduct_lsn: Not found: 1403; select ID ,to_char(MD_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(CR_TIME,'dd.mm.yyyy hh24:mi:ss') ,CR_PROCESS_STEP_ID ,INDIVIDUAL ,MD_PROCESS_STEP_ID ,XCOMMENT into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8,:b9:b10,:b11:b12  from PRODANG.PRODUCT where (WABCO_PART_ID=:b13 and SERIAL_NUMBER=:b14); ORA-01403: no data found
+
+2018-03-23 14:40:54; iGetProcessResult: Not found: 1403; select to_char(ID) ,to_char(START_TIME,'dd.mm.yyyy hh24:mi:ss') ,to_char(END_TIME,'dd.mm.yyyy hh24:mi:ss') ,PROCESS_ID ,STATUS_ID into :b0,:b1:b2,:b3:b4,:b5:b6,:b7:b8  from PRODANG.PROCESS_RESULT where (PRODUCT_ID=to_number(:b9) and PROCESS_ID=:b5); ORA-01403: no data found
+
