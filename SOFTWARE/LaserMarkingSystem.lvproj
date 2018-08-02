@@ -193,8 +193,6 @@
 				<Item Name="VISA Open Access Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Open Access Mode.ctl"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="citTemplate.clearQueue.vi" Type="VI" URL="../sources/Drivers/KeyenceCVX/Tools/CitTemplate/citTemplate.clearQueue.vi"/>
-			<Item Name="citTemplate.writeQueueWithAck.vi" Type="VI" URL="../sources/Drivers/KeyenceCVX/Tools/CitTemplate/citTemplate.writeQueueWithAck.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="lvimptsl.dll" Type="Document" URL="/&lt;resource&gt;/lvimptsl.dll"/>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
