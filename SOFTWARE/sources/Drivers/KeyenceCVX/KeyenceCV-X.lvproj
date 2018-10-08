@@ -46,7 +46,7 @@
 			</Item>
 			<Item Name="citTemplate.ackData.ctl" Type="VI" URL="../../../tools/CitTemplate/citTemplate.ackData.ctl"/>
 			<Item Name="citTemplate.ackNotifier.ctl" Type="VI" URL="../../../tools/CitTemplate/citTemplate.ackNotifier.ctl"/>
-			<Item Name="citTemplate.clearQueue.vi" Type="VI" URL="../Tools/CitTemplate/citTemplate.clearQueue.vi"/>
+			<Item Name="citTemplate.clearQueue.vi" Type="VI" URL="../../../tools/CitTemplate/citTemplate.clearQueue.vi"/>
 			<Item Name="citTemplate.EnumDescriptorToArray.vi" Type="VI" URL="../../../tools/CitTemplate/citTemplate.EnumDescriptorToArray.vi"/>
 			<Item Name="citTemplate.errData.ctl" Type="VI" URL="../../../tools/CitTemplate/citTemplate.errData.ctl"/>
 			<Item Name="citTemplate.ErrorEventPass.vi" Type="VI" URL="../../../tools/CitTemplate/citTemplate.ErrorEventPass.vi"/>
@@ -59,31 +59,72 @@
 			<Item Name="citTemplate.sendAckNotifier.vi" Type="VI" URL="../../../tools/CitTemplate/citTemplate.sendAckNotifier.vi"/>
 			<Item Name="citTemplate.VariantToEnumDescriptor.vi" Type="VI" URL="../../../tools/CitTemplate/citTemplate.VariantToEnumDescriptor.vi"/>
 			<Item Name="citTemplate.writeQueue.vi" Type="VI" URL="../../../tools/CitTemplate/citTemplate.writeQueue.vi"/>
-			<Item Name="citTemplate.writeQueueWithAck.vi" Type="VI" URL="../Tools/CitTemplate/citTemplate.writeQueueWithAck.vi"/>
+			<Item Name="citTemplate.writeQueueWithAck.vi" Type="VI" URL="../../../tools/CitTemplate/citTemplate.writeQueueWithAck.vi"/>
 			<Item Name="Convert special chars in string into spaces.vi" Type="VI" URL="../../../tools/Tma.lib/string.llb/Convert special chars in string into spaces.vi"/>
 			<Item Name="Database.Global.vi" Type="VI" URL="../../../Database/Database.Global.vi"/>
 			<Item Name="Database.Main-GetTime.vi" Type="VI" URL="../../../Database/Database.Main-GetTime.vi"/>
 			<Item Name="Database.Main.Data.Sets.ctl" Type="VI" URL="../../../Database/Database.Main.Data.Sets.ctl"/>
 			<Item Name="Database.Main.Data.Status.ctl" Type="VI" URL="../../../Database/Database.Main.Data.Status.ctl"/>
 			<Item Name="Dir exists.vi" Type="VI" URL="../../../tools/Tma.lib/file.llb/Dir exists.vi"/>
+			<Item Name="DMCConfiguatorGui.Component.ctl" Type="VI" URL="../../../Gui/DMCConfiguatorGui.Component.ctl"/>
+			<Item Name="DMCConfiguatorGui.ConfigData.ctl" Type="VI" URL="../../../Gui/DMCConfiguatorGui.ConfigData.ctl"/>
+			<Item Name="DMCConfiguatorGui.Type.ctl" Type="VI" URL="../../../Gui/DMCConfiguatorGui.Type.ctl"/>
+			<Item Name="DMCConfiguatorGui.Var.ctl" Type="VI" URL="../../../Gui/DMCConfiguatorGui.Var.ctl"/>
 			<Item Name="ErrorHandling.Create.vi" Type="VI" URL="../../../tools/ErrorHandling/ErrorHandling.Create.vi"/>
 			<Item Name="ErrorHandling.Fglb.Action.ctl" Type="VI" URL="../../../tools/ErrorHandling/ErrorHandling.Fglb.Action.ctl"/>
 			<Item Name="ErrorHandling.Fglb.Add.vi" Type="VI" URL="../../../tools/ErrorHandling/ErrorHandling.Fglb.Add.vi"/>
 			<Item Name="ErrorHandling.Fglb.vi" Type="VI" URL="../../../tools/ErrorHandling/ErrorHandling.Fglb.vi"/>
 			<Item Name="EventLog.Buffer.Action.ctl" Type="VI" URL="../../../tools/EventLog/EventLog.Buffer.Action.ctl"/>
 			<Item Name="EventLog.Buffer.vi" Type="VI" URL="../../../tools/EventLog/EventLog.Buffer.vi"/>
+			<Item Name="EventLog.CreateError(array).vi" Type="VI" URL="../../../tools/EventLog/EventLog.CreateError(array).vi"/>
+			<Item Name="EventLog.CreateError(single).vi" Type="VI" URL="../../../tools/EventLog/EventLog.CreateError(single).vi"/>
+			<Item Name="EventLog.CreateError.vi" Type="VI" URL="../../../tools/EventLog/EventLog.CreateError.vi"/>
 			<Item Name="EventLog.Event.ctl" Type="VI" URL="../../../tools/EventLog/EventLog.Event.ctl"/>
 			<Item Name="EventLog.EventGui.ctl" Type="VI" URL="../../../tools/EventLog/EventLog.EventGui.ctl"/>
 			<Item Name="EventLog.EventLevel.ctl" Type="VI" URL="../../../tools/EventLog/EventLog.EventLevel.ctl"/>
 			<Item Name="EventLog.EventSource.ctl" Type="VI" URL="../../../tools/EventLog/EventLog.EventSource.ctl"/>
 			<Item Name="EventLog.FormatErrorMessage.vi" Type="VI" URL="../../../tools/EventLog/EventLog.FormatErrorMessage.vi"/>
+			<Item Name="EventLog.New(array).vi" Type="VI" URL="../../../tools/EventLog/EventLog.New(array).vi"/>
 			<Item Name="EventLog.New(error).vi" Type="VI" URL="../../../tools/EventLog/EventLog.New(error).vi"/>
+			<Item Name="EventLog.New(single).vi" Type="VI" URL="../../../tools/EventLog/EventLog.New(single).vi"/>
+			<Item Name="EventLog.New.vi" Type="VI" URL="../../../tools/EventLog/EventLog.New.vi"/>
+			<Item Name="FestoCPX.Station.ButtonsState.ctl" Type="VI" URL="../../FestoCPX/Station/FestoCPX.Station.ButtonsState.ctl"/>
+			<Item Name="FestoCPX.Station.EmgState.ctl" Type="VI" URL="../../FestoCPX/Station/FestoCPX.Station.EmgState.ctl"/>
+			<Item Name="FestoCPX.Station.ProdPresent.ctl" Type="VI" URL="../../FestoCPX/Station/FestoCPX.Station.ProdPresent.ctl"/>
 			<Item Name="Join array to string.vi" Type="VI" URL="../../../tools/Tma.lib/string.llb/Join array to string.vi"/>
+			<Item Name="Keyence.CodeDetails.ctl" Type="VI" URL="../../Keyence/LowLevel/Keyence.CodeDetails.ctl"/>
+			<Item Name="Keyence.Data.Sets.ctl" Type="VI" URL="../../Keyence/Keyence.Data.Sets.ctl"/>
+			<Item Name="Keyence.Data.Status.ctl" Type="VI" URL="../../Keyence/Keyence.Data.Status.ctl"/>
+			<Item Name="Keyence.Data.Status.State.ctl" Type="VI" URL="../../Keyence/Keyence.Data.Status.State.ctl"/>
+			<Item Name="Keyence.Global.vi" Type="VI" URL="../../Keyence/LowLevel/Keyence.Global.vi"/>
+			<Item Name="Logger.Variant.Sets.ctl" Type="VI" URL="../../../Logger/Logger.Variant.Sets.ctl"/>
+			<Item Name="MainGui.TestOptions.ctl" Type="VI" URL="../../../Gui/MainGui.TestOptions.ctl"/>
+			<Item Name="Sequence.Code.SerialFormat.ctl" Type="VI" URL="../../../Sequence/Sequence.Code.SerialFormat.ctl"/>
+			<Item Name="Sequence.Code.Sets.ctl" Type="VI" URL="../../../Sequence/Sequence.Code.Sets.ctl"/>
+			<Item Name="Sequence.MainMode.ctl" Type="VI" URL="../../../Sequence/Sequence.MainMode.ctl"/>
+			<Item Name="Sequence.PlateType.ctl" Type="VI" URL="../../../Sequence/Sequence.PlateType.ctl"/>
+			<Item Name="Sequence.Prod.StatusData.ctl" Type="VI" URL="../../../Sequence/Sequence.Prod.StatusData.ctl"/>
+			<Item Name="Sequence.State.ctl" Type="VI" URL="../../../Sequence/Sequence.State.ctl"/>
+			<Item Name="Sequence.Step.Status.ctl" Type="VI" URL="../../../Sequence/Sequence.Step.Status.ctl"/>
+			<Item Name="Sequence.Test.BreakReason.ctl" Type="VI" URL="../../../Sequence/Sequence.Test.BreakReason.ctl"/>
+			<Item Name="Sequence.Test.BreakSource.ctl" Type="VI" URL="../../../Sequence/Sequence.Test.BreakSource.ctl"/>
+			<Item Name="Sequence.UserData.ctl" Type="VI" URL="../../../Sequence/Sequence.UserData.ctl"/>
+			<Item Name="Station.Changeover.State.vi" Type="VI" URL="../../../Station/Station.Changeover.State.vi"/>
+			<Item Name="Station.Data.ctl" Type="VI" URL="../../../Station/Station.Data.ctl"/>
+			<Item Name="Station.Global.vi" Type="VI" URL="../../../Station/Station.Global.vi"/>
+			<Item Name="Station.Home.Status.Bits.ctl" Type="VI" URL="../../../Station/Station.Home.Status.Bits.ctl"/>
+			<Item Name="Station.Plate.Properties.ctl" Type="VI" URL="../../../Station/Station.Plate.Properties.ctl"/>
+			<Item Name="Station.ProductSlot.ctl" Type="VI" URL="../../../Station/Station.ProductSlot.ctl"/>
+			<Item Name="Station.State.ctl" Type="VI" URL="../../../Station/Station.State.ctl"/>
 			<Item Name="Translator.FormatMessage.vi" Type="VI" URL="../../../tools/Translator/Translator.FormatMessage.vi"/>
+			<Item Name="Translator.Global.vi" Type="VI" URL="../../../tools/Translator/Translator.Global.vi"/>
 			<Item Name="Translator.Message.ctl" Type="VI" URL="../../../tools/Translator/Translator.Message.ctl"/>
+			<Item Name="Translator.Translate.Status (NoError).vi" Type="VI" URL="../../../tools/Translator/Translator.Translate.Status (NoError).vi"/>
+			<Item Name="Translator.Translate.Status (SingleNoError).vi" Type="VI" URL="../../../tools/Translator/Translator.Translate.Status (SingleNoError).vi"/>
 			<Item Name="User.Global.vi" Type="VI" URL="../../../tools/User/User.Global.vi"/>
 			<Item Name="User.Info.ctl" Type="VI" URL="../../../tools/User/User.Info.ctl"/>
 			<Item Name="User.Level.ctl" Type="VI" URL="../../../tools/User/User.Level.ctl"/>
+			<Item Name="V7310.Job.Sets.ctl" Type="VI" URL="../../V7310/LowLevel/V7310.Job.Sets.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
