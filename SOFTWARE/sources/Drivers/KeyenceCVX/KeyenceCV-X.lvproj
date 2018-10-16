@@ -114,7 +114,6 @@
 			<Item Name="Station.Global.vi" Type="VI" URL="../../../Station/Station.Global.vi"/>
 			<Item Name="Station.Home.Status.Bits.ctl" Type="VI" URL="../../../Station/Station.Home.Status.Bits.ctl"/>
 			<Item Name="Station.Plate.Properties.ctl" Type="VI" URL="../../../Station/Station.Plate.Properties.ctl"/>
-			<Item Name="Station.ProductSlot.ctl" Type="VI" URL="../../../Station/Station.ProductSlot.ctl"/>
 			<Item Name="Station.State.ctl" Type="VI" URL="../../../Station/Station.State.ctl"/>
 			<Item Name="Translator.FormatMessage.vi" Type="VI" URL="../../../tools/Translator/Translator.FormatMessage.vi"/>
 			<Item Name="Translator.Global.vi" Type="VI" URL="../../../tools/Translator/Translator.Global.vi"/>
@@ -124,7 +123,14 @@
 			<Item Name="User.Global.vi" Type="VI" URL="../../../tools/User/User.Global.vi"/>
 			<Item Name="User.Info.ctl" Type="VI" URL="../../../tools/User/User.Info.ctl"/>
 			<Item Name="User.Level.ctl" Type="VI" URL="../../../tools/User/User.Level.ctl"/>
+			<Item Name="V7310.Data.Sets.ctl" Type="VI" URL="../../V7310/V7310.Data.Sets.ctl"/>
+			<Item Name="V7310.Data.Status.ctl" Type="VI" URL="../../V7310/V7310.Data.Status.ctl"/>
+			<Item Name="V7310.Data.Status.State.ctl" Type="VI" URL="../../V7310/V7310.Data.Status.State.ctl"/>
+			<Item Name="V7310.Global.vi" Type="VI" URL="../../V7310/LowLevel/V7310.Global.vi"/>
 			<Item Name="V7310.Job.Sets.ctl" Type="VI" URL="../../V7310/LowLevel/V7310.Job.Sets.ctl"/>
+			<Item Name="V7310.Job.Variable.ctl" Type="VI" URL="../../V7310/LowLevel/V7310.Job.Variable.ctl"/>
+			<Item Name="V7310.LaserStatus.ctl" Type="VI" URL="../../V7310/LowLevel/V7310.LaserStatus.ctl"/>
+			<Item Name="V7310.Message.Data.ctl" Type="VI" URL="../../V7310/LowLevel/V7310.Message.Data.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
