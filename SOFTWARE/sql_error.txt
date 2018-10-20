@@ -1,6 +1,0 @@
-2018-10-17 21:13:42; Login: Oracle error: -12154; EXEC SQL CONNECT, execution time[ms]: 18393; ORA-12154: TNS:could not resolve the connect identifier specified
-
-2018-10-17 21:14:01; Login: Oracle error: -12154; EXEC SQL CONNECT, execution time[ms]: 18018; ORA-12154: TNS:could not resolve the connect identifier specified
-
-2018-10-17 21:14:20; Login: Oracle error: -12154; EXEC SQL CONNECT, execution time[ms]: 18034; ORA-12154: TNS:could not resolve the connect identifier specified
-
